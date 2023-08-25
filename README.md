@@ -40,3 +40,12 @@
 - Gradient Linear dsb color di text gmn caranya?
 - Fix width di setiap colomn grid?
 - Kapan child nya harus pake grid, kapan harus pake flex?
+
+## Day 8,9,10
+
+**Progress**
+- importing google font and applying custom theme in tailwind.config.js
+- working on design to code while practicing more about grid and flex
+
+**Questions**
+- Typography dan layout nya udah di sesuaikan tp kenapa keseluruhannya masih ada jarak yg gak pas?-
