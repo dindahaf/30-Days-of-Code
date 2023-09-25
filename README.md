@@ -51,7 +51,7 @@
 - Typography dan layout nya udah di sesuaikan tp kenapa keseluruhannya masih ada jarak yg gak pas?-
 
 
-##Day
+## Day
 
 **Progress**
 - Adding Wow.js JavaScript library 
