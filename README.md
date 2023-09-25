@@ -49,3 +49,14 @@
 
 **Questions**
 - Typography dan layout nya udah di sesuaikan tp kenapa keseluruhannya masih ada jarak yg gak pas?-
+
+
+##Day
+
+**Progress**
+- Adding Wow.js JavaScript library 
+- Adding Responsive design in the header, section 1-4
+
+**Questions**
+- How can responsive design be made in all dimensional movements? not only in declared dimentions on the inspect element
+
