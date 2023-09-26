@@ -56,7 +56,9 @@
 **Progress**
 - Adding Wow.js JavaScript library 
 - Adding Responsive design in the header, section 1-4
+- compress SVG 
 
 **Questions**
 - How can responsive design be made in all dimensional movements? not only in declared dimentions on the inspect element
+- How to make responsive SVG?
 
