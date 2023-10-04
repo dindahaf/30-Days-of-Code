@@ -56,9 +56,10 @@
 **Progress**
 - Adding Wow.js JavaScript library 
 - Adding Responsive design in the header, section 1-4
-- compress SVG 
+- compress SVG
+- declare width in the body for mobile, tablet and web.
 
 **Questions**
-- How can responsive design be made in all dimensional movements? not only in declared dimentions on the inspect element
+- max-w-screen-xl meaning?
 - How to make responsive SVG?
 
