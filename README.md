@@ -55,7 +55,7 @@
 
 **Progress**
 - Adding Wow.js JavaScript library 
-- Adding Responsive design in the header, section 1-4
+- Adding Responsive design in the header, main, and footer.
 - compress SVG
 - declare width in the body for mobile, tablet and web.
 
