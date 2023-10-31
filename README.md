@@ -64,9 +64,9 @@
 - How to make responsive SVG?
 
 
-#eventnity-react
+# eventnity-react
 
-##Meeting 11 
+## Meeting 11 
 
 **Progress**
 - disable eslint prop/types
