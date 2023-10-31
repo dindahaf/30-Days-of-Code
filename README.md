@@ -63,3 +63,16 @@
 - max-w-screen-xl meaning?
 - How to make responsive SVG?
 
+
+#eventnity-react
+
+##Meeting 11 
+
+**Progress**
+- disable eslint prop/types
+- code about section, venue section with react
+
+**Questions**
+- I have tried to put `'eslint-disable react/prop-types'` into .eslintrc.cjs file on the extends side and side part which return same result. then whats difference beetween those side?
+- 
+
