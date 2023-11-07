@@ -70,10 +70,17 @@
 
 **Progress**
 - disable eslint prop/types
-- code about section, venue section with react
+- code about-section, venue-section with react
 - moving the data into data.js file
 
 **Questions**
 - I have tried to put `'eslint-disable react/prop-types'` into .eslintrc.cjs file on the extends side and side part which return same result. then whats difference beetween those side?
 - 
 
+
+## Meeting 12
+
+**Progress**
+- complete 90% of freeCodeCamp
+- install clsx and tailwinf-merge
+- restructure code using clsx and taiwind-merge 
